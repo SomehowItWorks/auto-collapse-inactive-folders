@@ -7,7 +7,7 @@
 As the name suggests, this simple plugin auto collapses the folders you aren't currently working on.  
 
 如果你主要依赖文件列表浏览笔记，可能会想“需要反复展开不是更吃力了吗”？但如果你有别的方式浏览笔记，这个插件或许有助于简明地展示当前笔记的位置。  
-If you mostly rely on the file list to navigate, you might =think "isn't it more tedious to do all the expanding repeatly?"  
-However, in case that you have other ways to explore notes, this plugin might help on clarifying the location of the current note.
+If you mostly rely on the file list to navigate, you might think："isn't it more tedious to do all the expanding repeatly?"  
+However, in case that you got other ways to jump between notes, this plugin might help on showing the location of the current note.
 
 ![auto-collapse-folders demo](https://github.com/user-attachments/assets/8fc973c9-dbd0-4a47-8947-7f2d1f6af30b)
