@@ -1,0 +1,9 @@
+{
+    "id": "auto-collapse-folders",
+    "name": "Auto Collapse Folders",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Automatically collapse all folders except the one containing the active file.",
+    "author": "Gemini AI",
+    "isDesktopOnly": false
+}
