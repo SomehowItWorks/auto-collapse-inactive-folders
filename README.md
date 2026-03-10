@@ -1,4 +1,4 @@
-# Auto Collapse Folders (Obsidian Plugin)
+# Auto Collapse Inactive Folders (Obsidian Plugin)
 
 ⚠️这个插件的代码是由Google Gemini协助生成的。如果你很难接受AI生成的程式，请谨慎下载。  
 ⚠️The coding of this plugin is assisted by Google Gemini. If Ai programming upsets you, please think twice before installing it.
